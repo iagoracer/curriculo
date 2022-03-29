@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white ;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+h2{
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.nome{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ .footer{
+       margin-top: 30px;
+       font-size: 25px;
+       align-items: center;
+       justify-content: center;
+       text-align:center;
+ }
